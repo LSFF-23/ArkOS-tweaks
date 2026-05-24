@@ -24,6 +24,7 @@ fi
 [brightness guard]
 this one prevents from going below black screen threshold (7 = 2-3% on my device)
 copy contents from this folder to following locations (or copy paste when required)
+confirmed to work on dArkOS-RE too
 
 sudo nano /usr/local/bin/brightness_guard.sh
 sudo chmod +x /usr/local/bin/brightness_guard.sh
